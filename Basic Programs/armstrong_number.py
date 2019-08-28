@@ -16,5 +16,4 @@ if finalSum == num:
     print("Armstrong Number")
 else:
     print("Not Armstrong Number")
-
 # End
